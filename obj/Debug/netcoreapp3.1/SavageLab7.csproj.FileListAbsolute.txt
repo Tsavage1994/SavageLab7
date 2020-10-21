@@ -1,0 +1,13 @@
+C:\Users\there\source\repos\SavageLab7\SavageLab7\bin\Debug\netcoreapp3.1\SavageLab7.exe
+C:\Users\there\source\repos\SavageLab7\SavageLab7\bin\Debug\netcoreapp3.1\SavageLab7.deps.json
+C:\Users\there\source\repos\SavageLab7\SavageLab7\bin\Debug\netcoreapp3.1\SavageLab7.runtimeconfig.json
+C:\Users\there\source\repos\SavageLab7\SavageLab7\bin\Debug\netcoreapp3.1\SavageLab7.runtimeconfig.dev.json
+C:\Users\there\source\repos\SavageLab7\SavageLab7\bin\Debug\netcoreapp3.1\SavageLab7.dll
+C:\Users\there\source\repos\SavageLab7\SavageLab7\bin\Debug\netcoreapp3.1\SavageLab7.pdb
+C:\Users\there\source\repos\SavageLab7\SavageLab7\obj\Debug\netcoreapp3.1\SavageLab7.csprojAssemblyReference.cache
+C:\Users\there\source\repos\SavageLab7\SavageLab7\obj\Debug\netcoreapp3.1\SavageLab7.AssemblyInfoInputs.cache
+C:\Users\there\source\repos\SavageLab7\SavageLab7\obj\Debug\netcoreapp3.1\SavageLab7.AssemblyInfo.cs
+C:\Users\there\source\repos\SavageLab7\SavageLab7\obj\Debug\netcoreapp3.1\SavageLab7.csproj.CoreCompileInputs.cache
+C:\Users\there\source\repos\SavageLab7\SavageLab7\obj\Debug\netcoreapp3.1\SavageLab7.dll
+C:\Users\there\source\repos\SavageLab7\SavageLab7\obj\Debug\netcoreapp3.1\SavageLab7.pdb
+C:\Users\there\source\repos\SavageLab7\SavageLab7\obj\Debug\netcoreapp3.1\SavageLab7.genruntimeconfig.cache
