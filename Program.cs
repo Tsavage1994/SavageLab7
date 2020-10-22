@@ -17,7 +17,7 @@ namespace SavageLab7
 
             static bool NameValidator(string name)
             {
-                Regex namePattern = new Regex(@"^([A-z]{5,30})$");
+                Regex namePattern = new Regex(@"^([A-Z]{1}\w{4,29})$");
                 if (namePattern.IsMatch(name))
                 {
                     return true;
